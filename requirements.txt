@@ -13,3 +13,6 @@ pip
 scikit-learn
 scipy
 spacy
+bqplot
+ipympl
+ipyvolume
