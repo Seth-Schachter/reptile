@@ -10,7 +10,7 @@ requests
 pyyaml
 fastprogress>=0.1.22
 pillow
-python>=3.6
+python
 pip
 scikit-learn
 scipy
