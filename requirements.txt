@@ -2,7 +2,6 @@ ipywidgets
 voila
 packaging
 jupyter
-pytorch
 torchvision>=0.5
 matplotlib
 pandas
