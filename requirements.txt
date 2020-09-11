@@ -1,3 +1,4 @@
+fastai
 ipywidgets
 voila
 packaging
