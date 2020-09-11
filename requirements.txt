@@ -18,3 +18,4 @@ bqplot
 ipympl
 ipyvolume
 utils
+conda
