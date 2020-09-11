@@ -16,3 +16,4 @@ spacy
 bqplot
 ipympl
 ipyvolume
+utils
